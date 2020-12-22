@@ -1,0 +1,154 @@
+.sign-up-container {
+    display:flex;
+    flex-flow: column wrap;
+    height: 85vh;
+    width: 100%;
+    background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 0;
+    padding: 3rem;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+.form-wrapper {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 80vh;
+}
+
+.form{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center; 
+}
+
+
+
+.heading-div > h1{
+    font-size: 3.5rem;
+    background: #f953c6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b91d73, #f953c6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b91d73, #f953c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+
+
+
+}
+
+
+
+.input-headings {
+    text-align: left;
+    font-size: 30px;
+    background: #f953c6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b91d73, #f953c6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b91d73, #f953c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+
+}
+
+.input {
+    padding: 10px;
+    width: 50vh;
+    margin: 10px auto;
+    border: 1px solid #aaa2a2;
+    border-radius: 20px;
+}
+
+::placeholder{
+    font-size:20px;
+    margin-right: auto;
+}
+
+
+.inputSubmit {
+    font-size: 1.5rem;
+    border: 1px solid #f953c6;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 15px 50px;
+    background: #f953c6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #b91d73, #f953c6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #b91d73, #f953c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.sign-up-svg {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 30vh;
+    width: 30vh;
+    margin-top: auto;
+    margin-bottom:auto;
+}
+
+
+@media screen and (max-width: 960px){
+
+ .sign-up-container {
+    margin-bottom: -10rem;
+    display: flex;
+    flex-flow: column wrap;
+    flex: 1 1 150px;
+    height: 140vh;
+    
+}   
+
+.form-wrapper {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+    margin-top: 0px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: -30px;
+}
+
+.sign-up-svg {
+    display: none;
+    
+
+
+}
+
+
+.heading-div > h1{
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+
+}
+
+
+.inputSubmit {
+    
+    font-size: 1rem;
+    margin-bottom: 0px;
+}
+
+
+::placeholder{
+    font-size:15px;
+}
+
+.input-headings {
+    font-size: 20px;
+}
+
+}
