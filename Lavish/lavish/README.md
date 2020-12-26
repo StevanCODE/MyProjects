@@ -1,3 +1,30 @@
+# You can see the screenshots of the website bellow :
+Fully responsive design.
+
+Home Page: 
+
+![](public/images/lavish-completed-1-new.png)
+![](public/images/lavish-completed-2.2-new.png)
+![](public/images/lavish-completed-2.2.png)
+
+
+Sign UP :
+
+![](public/images/lavish-completed-3.png)
+
+Pricing :
+
+![](public/images/lavish-completed-4.png)
+
+
+Footer :
+
+![](public/images/lavish-completed-5.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
