@@ -1,3 +1,25 @@
+# You can see the screenshots of the website bellow :
+Fully responsive design.
+
+
+Travel
+Home Page: 
+
+![](public/images/travel-1.png)
+
+
+
+Services Section :
+
+![](public/images/travel-2.jpg)
+
+
+Footer :
+
+![](public/images/travel-3.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
