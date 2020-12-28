@@ -5,9 +5,9 @@ Fully responsive design.
 
 ![](public/images/pizza-site-completed-1.jpg)
 
-![](public/images/pizza-site-completed-2.jpg)
+![](public/images/pizza-site-completed-2.png)
 
-![](public/images/pizza-site-completed-3.jpg)
+![](public/images/pizza-site-completed-3.png)
 
 
 
