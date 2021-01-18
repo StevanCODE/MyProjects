@@ -3,7 +3,7 @@ Fully responsive design.
 
 
 ![](public/images/lead1.png)
-![](public/images/lead2.png)
+![](public/images/lead-2.png)
 ![](public/images/lead3.png)
 ![](public/images/lead4.png)
 ![](public/images/lead5.png)
