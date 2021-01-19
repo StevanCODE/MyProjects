@@ -1,0 +1,23 @@
+[
+    {
+        "img": "../assets/pic1.jpg",
+        "alt": "Tara",
+        "name": "Tara",
+        "button": "View Destination"
+    },    {
+        "img": "../assets/pic2.jpg",
+        "alt": "Petra",
+        "name": "Petra",
+        "button": "View Destination"
+    },    {
+        "img": "../assets/pic3.jpg",
+        "alt": "Istanbul",
+        "name": "Istanbul",
+        "button": "View Destination"
+    },    {
+        "img": "../assets/pic4.jpg",
+        "alt": "Bali",
+        "name": "Bali",
+        "button": "View Destination"
+    }
+]
