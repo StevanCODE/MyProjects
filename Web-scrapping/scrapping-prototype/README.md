@@ -1,6 +1,8 @@
 # My first attempt at web scrapping!
 
-Made a program that with the "Puppeteer" library that can scrape the data i want from a car dealer page and then reuse it 
+Made a program with the "Puppeteer" library that can scrape the data i want from a car dealer page and then reuse it 
+
+If you missed it, the program is here MyProjects/Web-scrapping/scrapping.js
 
 
 Original page:
