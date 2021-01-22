@@ -4,9 +4,17 @@ Made a program that with the "Puppeteer" library that can scrape the data i want
 
 
 ![](public/images/scraping1.jpg)
+___________________________________
+
 ![](public/images/scraping2.jpg)
+___________________________________
+
 ![](public/images/scraping3.jpg)
+___________________________________
+
 ![](public/images/scraping4.jpg)
+___________________________________
+
 
 
 # Getting Started with Create React App
