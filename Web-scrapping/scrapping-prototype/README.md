@@ -3,14 +3,22 @@
 Made a program that with the "Puppeteer" library that can scrape the data i want from a car dealer page and then reuse it 
 
 
+Original page:
+
 ![](public/images/scraping1.jpg)
 ___________________________________
+
+My scrapped data:
 
 ![](public/images/scraping2.jpg)
 ___________________________________
 
+Original page:
+
 ![](public/images/scraping3.jpg)
 ___________________________________
+
+My scrapped data:
 
 ![](public/images/scraping4.jpg)
 ___________________________________
