@@ -1,6 +1,7 @@
 # You can see the screenshots of the website bellow :
 Fully responsive design.
 
+
 Home Page: 
 
 ![](public/images/lavish-completed-1-new.png)
