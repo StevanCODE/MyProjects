@@ -1,0 +1,3 @@
+[submodule "Web-scrapping/scrapping-prototype"]
+	path = Web-scrapping/scrapping-prototype
+	url = https://github.com/StevanCODE/MyProjects.git
