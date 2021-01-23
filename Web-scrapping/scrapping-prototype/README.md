@@ -10,7 +10,7 @@ Original page:
 ![](public/images/scraping1.jpg)
 ___________________________________
 
-My scrapped data:
+My scraped data:
 
 ![](public/images/scraping2.jpg)
 ___________________________________
@@ -20,7 +20,7 @@ Original page:
 ![](public/images/scraping3.jpg)
 ___________________________________
 
-My scrapped data:
+My scraped data:
 
 ![](public/images/scraping4.jpg)
 ___________________________________
