@@ -1,5 +1,14 @@
+This is a project made by completing the React Developer Course on Udemy by Andrei Neagoie and Yihua Zhang. 
 
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+   
 # Deployed at: https://master-project-e-commerce.herokuapp.com/
+
+The project itself is built in React and utilizes Redux for state management, Firebase for sign-in authorization and data storage and finally Stripe for payments. 
+
+Feel free to check it out, log in, fill up the shopping cart and "buy" whatever you want, it's on me. There's dummy credit card info on the checkout page.
+
+There's still some work to be done and code refactoring to optimize the build so stay tuned.
 
 # Getting Started with Create React App
 
